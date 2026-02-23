@@ -13,7 +13,8 @@
         description = "Go dev environment";
       };
 
-      defaultTemplate = self.templates.trivial;
     };
+
+    defaultTemplate = self.templates.trivial;
   };
 }
