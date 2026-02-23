@@ -20,6 +20,7 @@ Replace `<template_name>` with the name of the template you want to use.
 - `go` — Full Go development environment with:
   - Go compiler
   - [sqlc](https://sqlc.dev) — SQL-to-Go code generator
-  - [Air](https://github.com/cosmtrek/air) — Live reload tool for Go
+  - [air](https://github.com/air-verse/air) — Live reload tool for Go
   - [gopls](https://github.com/golang/tools/tree/master/gopls) — Go language server
   - [golangci-lint](https://golangci-lint.run) — Linter for Go code
+  - [delve](https://github.com/go-delve/delve) — Debugger for Go code

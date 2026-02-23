@@ -18,6 +18,7 @@
         sqlc
         air
         gopls
+        delve
       ];
 
       shellHook = ''
