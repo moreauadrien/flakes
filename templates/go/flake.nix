@@ -17,6 +17,7 @@
         go
         sqlc
         air
+        gopls
       ];
 
       shellHook = ''
