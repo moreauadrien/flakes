@@ -20,6 +20,7 @@ This script allows you to browse and select a template interactively. It require
 - `go` — Full Go development environment with:
   - Go compiler
   - [sqlc](https://sqlc.dev) — SQL-to-Go code generator
+  - [dbmate](https://github.com/amacneil/dbmate) — Database migration tool
   - [air](https://github.com/air-verse/air) — Live reload tool for Go
   - [gopls](https://github.com/golang/tools/tree/master/gopls) — Go language server
   - [golangci-lint](https://golangci-lint.run) — Linter for Go code

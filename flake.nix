@@ -13,6 +13,11 @@
         description = "Go dev environment";
       };
 
+      bun = {
+        path = ./templates/bun;
+        description = "Bun dev environment";
+      };
+
     };
 
     defaultTemplate = self.templates.trivial;
