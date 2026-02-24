@@ -16,7 +16,7 @@
 
       shellHook = ''
         export NIX_SHELL_NAME="${shellName}"
-        exec zsh
+        exec $SHELL
       '';
     };
   };
