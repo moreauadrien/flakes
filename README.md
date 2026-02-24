@@ -14,6 +14,7 @@ Alternatively, you can use the `templates` script located in `./scripts/` for an
 ```
 This script allows you to browse and select a template interactively. It requires `jq` and `fzf` to be installed on your system.
 
+> **Note**: All templates assume you are using **zsh** as your shell.
 ## Available Templates
 - `trivial` — Minimal template, does nothing except set up a basic flake structure.
 - `go` — Full Go development environment with:
